@@ -23,7 +23,7 @@ setup(
     name='arduino_olfactometer',
     version='0.1.0',
     author='Peter Polidoro',
-    author_email='peterpolidoro@gmail.com',
+    author_email='peter@polidoro.io',
     packages=['arduino_olfactometer',
               'arduino_olfactometer/gui',
               # 'arduino_olfactometer/webserver',
